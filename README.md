@@ -34,7 +34,7 @@
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">Ruby</a></li>
   </ul>
 </details>
 
@@ -56,7 +56,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: PostgreSQL or any other SQL database.
+In order to run this project you need: Ruby
 
 ### Setup
 
@@ -64,15 +64,14 @@ Clone this repository to your desired folder:
 git clone 'https://github.com/yodit93/Decode-Morse-code.git'
 
 ### Install
-Install this project with: Install [PostgreSQL](https://www.postgresql.org/download/)
+Install this project with: Install using this syntax 
+- bundle install
 
 #### Usage
 
 To run the project, execute the following command:
 
-- Start Postgres server.
-- Run psql.
-- Create table.
+- ruby morse_code.rb
 
 ### Run tests
 
@@ -123,9 +122,7 @@ Feel free to check the [issues page](https://github.com/yodit93/Decode-Morse-cod
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please give us a "*"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
