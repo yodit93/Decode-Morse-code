@@ -122,7 +122,7 @@ Feel free to check the [issues page](https://github.com/yodit93/Decode-Morse-cod
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give us a "*"
+> If you like this project please give a ⭐️ to this repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
