@@ -60,11 +60,10 @@ In order to run this project you need: Ruby
 
 ### Setup
 
-Clone this repository to your desired folder:
-git clone 'https://github.com/yodit93/Decode-Morse-code.git'
+Clone this [repository](https://github.com/yodit93/Decode-Morse-code.git) to your desired folder.
 
 ### Install
-Install this project with: Install using this syntax 
+Install this project with:
 - bundle install
 
 #### Usage
@@ -96,7 +95,6 @@ You can deploy this project using: **Not available**.
 - GitHub: [@Moses-chibuike](https://github.com/Moses-chibuike/)
 - Twitter: [Ezechukwuchibu2](https://twitter.com/Ezechukwuchibu2)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ezechukwu-chibuike/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
