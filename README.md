@@ -32,7 +32,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Database</summary>
+<summary>Client</summary>
   <ul>
     <li><a href="#">Ruby</a></li>
   </ul>
